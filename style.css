@@ -3,7 +3,73 @@
 body {
     font-family: 'Cabin';
     background-color: #758190;
+    margin-top: 60px;
 }
+
+/* .nav {
+    position: fixed;
+    z-index: 1;
+    background-color: white;
+    width: 100%;
+}
+
+.nav ul {
+    color: grey;
+    list-style: none;
+    list-style-type: none;
+    position: fixed;
+    width: 100%;
+    padding: 10px;
+}
+
+.nav ul li {
+    margin: 10px;
+}
+
+.nav ul li a:hover{
+    font-weight: bold;
+    color: black;
+    box-shadow: 0 0 30px lightblue;
+} */
+.navbar {
+    position: fixed;
+    z-index: 1;
+  
+  }
+  
+  /* General style rule set for all items in ul */
+  .navbar ul {
+    list-style: none;
+    list-style-type: none;
+    overflow: hidden;
+    position: fixed;
+    top: -18px;
+    right: -16px;
+    width: 100%;
+    margin-bottom: 10px;
+    background-color: black;
+    padding: 10px;
+  }
+  
+  /* Style rule set for individual li */
+  .navbar ul li {
+    float: left;
+    margin: 10px;
+  }
+  
+  
+  /* Style rule set for individual li link */
+  .navbar ul li a {
+    font-family: sans-serif;
+    color: white;
+    font-size: 16px;
+    text-decoration: none;
+  }
+  
+  /* Style rule set for hovered link */
+  .navbar ul li a:hover {
+    font-weight: bold;
+  }
 
 #tentacles {
     width: 50px;
@@ -20,7 +86,16 @@ body {
 }
 
 .stats-container {
+    /* padding: 1%; */
     display: flex;
+    /* flex-direction: column; dunno if necessary */
+    align-items: center;
+
+}
+
+.stats-container:hover {
+    cursor: pointer;
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
