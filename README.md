@@ -25,7 +25,7 @@ Added a navigation bar, allowing user to be redirected to the top of the page or
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/a/q5Gg1vu' title='Video Walkthrough' width=100% alt='Video Walkthrough' />
+<img src='https://imgur.com/a/q5Gg1vu' title='Video Walkthrough' alt='Video Walkthrough' />
 
 GIF created with Kap (https://getkap.co/)
 <!-- Recommended tools:
