@@ -24,6 +24,7 @@ Added a navigation bar, allowing user to be redirected to the top of the page or
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+![Kapture 2024-01-01 at 18 18 29](https://github.com/sydneyhopp/web102_prework/assets/106341595/2072e066-378c-4e81-b7bb-93b2b0d12525)
 
 <img src='https://i.imgur.com/h3MvtJT.mp4' title='Video Walkthrough' alt='Video Walkthrough' />
 
