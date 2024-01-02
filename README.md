@@ -36,7 +36,7 @@ GIF created with Kap (https://getkap.co/)
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Had to relearn how to implement a navigation bar.
 
 ## License
 
